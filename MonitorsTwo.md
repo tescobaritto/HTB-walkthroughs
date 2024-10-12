@@ -133,4 +133,4 @@ I didn't get a shell right away, so I navigated to the provided path and execute
 ```
 And we got euid=0(root) which is equal to root priveleges!
 ## Conclusion
-This box was really fun, it was simple but tinteresting i learned a bit about docker containers hope you also learned something, have good day and good luck on your next challenges!
+This box was really fun, it was simple but interesting i learned a bit about docker containers hope you also learned something, have good day and good luck on your next challenges!
