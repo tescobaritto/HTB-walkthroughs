@@ -3,7 +3,6 @@ Hi, I'm hacking and writing walkthroughs to consolidate my knowledge and improve
 ```
 escomoes
 ```
-Here is list of finished walkthroughs:
-
 (Important Disclaimer: To save you time, I'm not showing all of my mistakes. These challenges take time; they can be frustrating and difficult. I did not fly through them effortlessly.)
+## Here is list of finished walkthroughs:
 - [MonitorsTwo](MonitorsTwo.md)
