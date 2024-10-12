@@ -8,5 +8,5 @@ My HTB nickname is :
 tescobar
 ```
 (Important Disclaimer: To save you time, I'm not showing all of my mistakes. These challenges take time; they can be frustrating and difficult. I did not fly through them effortlessly.)
-## Here is list of finished walkthroughs:
+## List of finished walkthroughs:
 - [MonitorsTwo](MonitorsTwo.md)
