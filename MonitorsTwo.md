@@ -103,8 +103,8 @@ id
 uname -a
 sudo -l
 cat .bash_history
-./linpeas.sh (looked through, this took some time)
 ps aux | grep "root"
+./linpeas.sh (looked through, this took some time)
 ```
 And finally, I remembered that there is a Docker container running, and we can gain root access on it, so I checked the Docker version:
 ```
@@ -115,6 +115,7 @@ docker --version
 
 Looked that version up on internet for any CVE and found this git hub page (you can check that for more insights on this exploit):
 https://github.com/UncleJ4ck/CVE-2021-41091
+
 So i followed up steps provided by readme file:
 
 ![image](https://github.com/user-attachments/assets/e32fb60c-13ba-449d-8539-f3916f2455d3)
