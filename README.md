@@ -10,3 +10,4 @@ tescobar
 (Important Disclaimer: To save you time, I'm not showing all of my mistakes. These challenges take time; they can be frustrating and difficult. I did not fly through them effortlessly.)
 ## List of finished walkthroughs:
 - [MonitorsTwo](MonitorsTwo.md)
+- [Ambassador](Ambassador.md)
