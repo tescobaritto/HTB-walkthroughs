@@ -3,7 +3,7 @@ Hi, I'm hacking and writing walkthroughs to consolidate my knowledge and improve
 ```
 escomoes
 ```
-My HTB nickname is :
+My HTB nickname:
 ```
 tescobar
 ```
